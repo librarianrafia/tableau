@@ -13,8 +13,6 @@
  **Tableau Public**
 * "Tableau Public is *free software* that can allow anyone to connect to a spreadsheet or file and create interactive data visualizations *for the web."*
 * Sign up for a [free account here](https://public.tableau.com/en-us/s/)
-* [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day)
-* [More data viz examples](https://www.tableau.com/learn/articles/best-data-visualization-blogs_)
 
 **Tableau Desktop**
 * [Tableau Desktop](https://www.tableau.com/products/desktop) is part of the Tableau Creator suite. It allows you to *analyze data* and *create visualizations* on your desktop.
@@ -22,9 +20,8 @@
     * [Tableau for Teaching:](https://www.tableau.com/academic/teaching): Teach data skills across all disciplines and levels in your classroom. 
     * [Request free 1 year license here.](https://www.tableau.com/academic/teaching#form)
 
-Session Leader: [Rafia Mirza](https://librarianrafia.github.io/about/)
+Worlshop Facilitator: [Rafia Mirza](https://librarianrafia.github.io/about/)
 
- 
 [![Creative Commons License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 
