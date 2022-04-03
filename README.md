@@ -2,24 +2,25 @@
 [Workshop info](https://inside.twu.edu/campuses/read/storytelling-with-data-workshop-set)
 
 ## Outline
+- Discussion:
 - Best practices in data visualization
     - Using Data (Prep, Analysis & Viz)
-- Data visualization tools
+    - Data visualization tools
 - Tableau (Tableau Desktop & Tableau Desktop) basics through demonstration and hands-on learning 
 - Please sign up for accounts *before* the workshop. 
     - Tableau Public: Account is active same day as sign up.
-    - Tableau Desktop: can take time to for your request form to be processed. If you do not have access though your cmapus, request an account as soon as possible.
+    - Tableau Desktop: Account request form can take time to be processed. If you do not have access though your campus, request an account as soon as possible.
 
 
 ## How to sign up for access to Tableau 
 
  **Tableau Public**
 * "Tableau Public is *free software* that can allow anyone to connect to a spreadsheet or file and create interactive data visualizations *for the web."*
-* Sign up for a [free account here](https://public.tableau.com/en-us/s/)
+* **Sign up for a [free account here]**(https://public.tableau.com/en-us/s/)
 
 **Tableau Desktop**
 * [Tableau Desktop](https://www.tableau.com/products/desktop) is part of the Tableau Creator suite. It allows you to *analyze data* and *create visualizations* on your desktop.
-- Does your institution subscribe? Or are you eligible for their academic program as a [student or instructor?](https://www.tableau.com/community/academic)
+- **Does your institution subscribe? Or are you eligible for their academic program as a [student or instructor?]**(https://www.tableau.com/community/academic)
     * [Tableau for Teaching:](https://www.tableau.com/academic/teaching): Teach data skills across all disciplines and levels in your classroom. 
     * [Request free 1 year license here.](https://www.tableau.com/academic/teaching#form)
 
