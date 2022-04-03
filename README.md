@@ -16,11 +16,11 @@
 
  **Tableau Public**
 * "Tableau Public is *free software* that can allow anyone to connect to a spreadsheet or file and create interactive data visualizations *for the web."*
-* **Sign up for a [free account here]**(https://public.tableau.com/en-us/s/)
+* **Sign up for a [free account here](https://public.tableau.com/en-us/s/)**
 
 **Tableau Desktop**
 * [Tableau Desktop](https://www.tableau.com/products/desktop) is part of the Tableau Creator suite. It allows you to *analyze data* and *create visualizations* on your desktop.
-- **Does your institution subscribe? Or are you eligible for their academic program as a [student or instructor?]**(https://www.tableau.com/community/academic)
+- **Does your institution subscribe? Or are you eligible for their academic program as a [student or instructor?](https://www.tableau.com/community/academic)**
     * [Tableau for Teaching:](https://www.tableau.com/academic/teaching): Teach data skills across all disciplines and levels in your classroom. 
     * [Request free 1 year license here.](https://www.tableau.com/academic/teaching#form)
 
