@@ -7,7 +7,8 @@
 - Data visualization tools
 - Tableau (Tableau Desktop & Tableau Desktop) basics through demonstration and hands-on learning 
 - Please sign up for accounts *before* the workshop. 
-    - Tableau Public sign up is same day, but for Tableua Desktop it can take time to for them to process your request form.
+    - Tableau Public: Account is active same day as sign up.
+    - Tableau Desktop: can take time to for your request form to be processed. If you do not have access though your cmapus, request an account as soon as possible.
 
 
 ## How to sign up for access to Tableau 
