@@ -66,8 +66,9 @@ Data viz workflow
 
 
 ### Good vs bad Viz
-*[dataisugly](https://www.reddit.com/r/dataisugly/); [WTFviz](https://twitter.com/wtfviz?lang=en) & [dataisbeautiful](https://www.reddit.com/r/https://www.reddit.com/r/dataisbeautiful//)
-*[misrepresentation] (https://imgur.com/wll2Vaq)
+* [dataisbeautiful](https://www.reddit.com/r/https://www.reddit.com/r/dataisbeautiful//)
+* [dataisugly](https://www.reddit.com/r/dataisugly/); [WTFviz](https://twitter.com/wtfviz?lang=en) 
+* [misrepresentation] (https://imgur.com/wll2Vaq)
 
 ## Tools for preparing/cleaning data
 - you might use Excel, Open Refine or Tableau prep
@@ -169,7 +170,7 @@ Further reading: This 3-part series on data journalism and data projects in gene
 * [Part 2](https://pudding.cool/process/how-to-make-dope-shit-part-2/)
 * [Part 3](https://pudding.cool/process/how-to-make-dope-shit-part-3/)
 
-[Info Viz Glossary](https://infovis-wiki.net/wiki/Category:Glossary)
-[The Data Notebook](https://uta.pressbooks.pub/datanotebook/)
-[A GENTLE INTRODUCTION TO EXCEL AND SPREADSHEETS FOR HUMANITIES PEOPLE](https://hfroehli.ch/2021/06/17/a-gentle-introduction-to-excel-and-spreadsheets-for-humanities-people/)
+* [Info Viz Glossary](https://infovis-wiki.net/wiki/Category:Glossary)
+* [The Data Notebook](https://uta.pressbooks.pub/datanotebook/)
+* [A GENTLE INTRODUCTION TO EXCEL AND SPREADSHEETS FOR HUMANITIES PEOPLE](https://hfroehli.ch/2021/06/17/a-gentle-introduction-to-excel-and-spreadsheets-for-humanities-people/)
 
