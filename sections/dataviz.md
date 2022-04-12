@@ -55,23 +55,25 @@ The considerations you should keep in mind for [creating a data set,](https://re
 
 ## What is data visualization?
 * You are making an argument visually with data. 
-Data viz workflow
+* Data viz workflow
 - [Why are you making a viz? For who?](https://www.tableau.com/learn/articles/data-visualization)
 - What data do you need?
 - What is the [best viz](https://www.juiceanalytics.com/chartchooser)for your purpose? 
 - (Spatial data:map, temporal data: timeline, bar chart, [etc.](https://datavizcatalogue.com/))
     -see more about [Taxonomy](http://www.interactiondesign.us/courses/2011_AD690/PDFs/Shneiderman_1996.pdf)
 - What data will you actually represent ?
-- You want enough data that you argument makes sense, but too much data makes the viz confusing.
+- You want enough data that your argument makes sense, but too much data makes the viz confusing.
 
 
 ### Good vs bad Viz
-* [dataisbeautiful](https://www.reddit.com/r/https://www.reddit.com/r/dataisbeautiful//)
+* [dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
 * [dataisugly](https://www.reddit.com/r/dataisugly/); [WTFviz](https://twitter.com/wtfviz?lang=en) 
-* [misrepresentation] (https://imgur.com/wll2Vaq)
+
+* [A collection of dataviz caveats by data-to-viz.com](https://www.data-to-viz.com/caveats.html)
+* [misrepresentation](https://imgur.com/wll2Vaq)
 
 ## Tools for preparing/cleaning data
-- you might use Excel, Open Refine or Tableau prep
+- You might use Excel, [Open Refine](https://openrefine.org/) or Tableau prep
 
 # Tableau 
 
@@ -103,6 +105,7 @@ Data viz workflow
 * Sign up for a [free account here](https://public.tableau.com/en-us/s/)
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day)
 * [More data viz examples](https://www.tableau.com/learn/articles/best-data-visualization-blogs_)
+
 
 **Tableau Desktop**
 * [Tableau Desktop](https://www.tableau.com/products/desktop) is part of the Tableau Creator suite. It allows you to *analyze data* and *create visualizations* on your desktop.
