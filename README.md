@@ -24,7 +24,8 @@
     * [Tableau for Teaching:](https://www.tableau.com/academic/teaching): Teach data skills across all disciplines and levels in your classroom. 
     * [Request free 1 year license here.](https://www.tableau.com/academic/teaching#form)
 
-## [Link to Content]()
+## [Link to Content](https://github.com/librarianrafia/tableau/blob/main/sections/dataviz.md)
+## [Link to slides](https://github.com/librarianrafia/tableau/blob/main/sections/storydata.pdf)
 
 
 Worlshop Facilitator: [Rafia Mirza](https://librarianrafia.github.io/about/)

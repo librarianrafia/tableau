@@ -65,9 +65,9 @@ Data viz workflow
 - You want enough data that you argument makes sense, but too much data makes the viz confusing.
 
 
-Good vs bad Viz
-[dataisugly](https://www.reddit.com/r/dataisugly/); [WTFviz](https://twitter.com/wtfviz?lang=en) & [dataisbeautiful](https://www.reddit.com/r/https://www.reddit.com/r/dataisbeautiful//)
-misrepresent https://imgur.com/wll2Vaq
+### Good vs bad Viz
+*[dataisugly](https://www.reddit.com/r/dataisugly/); [WTFviz](https://twitter.com/wtfviz?lang=en) & [dataisbeautiful](https://www.reddit.com/r/https://www.reddit.com/r/dataisbeautiful//)
+*[misrepresentation] (https://imgur.com/wll2Vaq)
 
 ## Tools for preparing/cleaning data
 - you might use Excel, Open Refine or Tableau prep
@@ -113,10 +113,8 @@ misrepresent https://imgur.com/wll2Vaq
 * [Tableau Environment](https://help.tableau.com/current/pro/desktop/en-us/environ_st.htm)
 
 
-## Tableau Workflow
-* See slides
-
-## Tableau Demo 
+## Tableau Workflow & Demo
+* [See slides](https://github.com/librarianrafia/tableau/blob/main/sections/storydata.pdf)
 
 
 ### Examples in Tableau Public
@@ -172,29 +170,6 @@ Further reading: This 3-part series on data journalism and data projects in gene
 * [Part 3](https://pudding.cool/process/how-to-make-dope-shit-part-3/)
 
 [Info Viz Glossary](https://infovis-wiki.net/wiki/Category:Glossary)
-
-
-
 [The Data Notebook](https://uta.pressbooks.pub/datanotebook/)
 [A GENTLE INTRODUCTION TO EXCEL AND SPREADSHEETS FOR HUMANITIES PEOPLE](https://hfroehli.ch/2021/06/17/a-gentle-introduction-to-excel-and-spreadsheets-for-humanities-people/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Some content on this page adapted from:
-    
-* [Research Data Oxford](https://researchdata.ox.ac.uk/home/managing-your-data-at-oxford/organising-your-data/) and used under a [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/).
-* [BOSTON COLLEGE LIBRARIES:Text & Data Mining](https://libguides.bc.edu/textdatamining/overview) and used under a [Creative Commons Attribution 4.0 International License..](https://creativecommons.org/licenses/by/4.0/).
-* [NYU Text Data Mining](https://guides.nyu.edu/tdm/start)and used under a [ Creative Commons Attribution-NonCommercial 4.0 International License.](https://creativecommons.org/licenses/by-nc/4.0/).
-
-* Also see:[USGS data management](https://www.usgs.gov/data-management) 
