@@ -87,7 +87,9 @@ Data viz workflow
  - [Learning paths](https://www.tableau.com/learn/learning-paths?_ga=2.67567634.2062626085.1648763358-586568521.1648763358)
     * Does your data need to be in a specific format for Tableau?
     * How do you import data into Tableau? 
-    * How do you create worksheets, visualizations & dashboards in Tableau?   
+    * How do you create worksheets, visualizations & dashboards in Tableau?
+
+    [Tableau Help is your friend!](https://www.tableau.com/support/help)    
 
 ### Tableau options
 - Tableau product suite: [Tableau Prep](https://www.tableau.com/products/prep), Tableau Desktop, Tableau Server & Tableau Online, Tableau Mobile.
