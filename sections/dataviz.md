@@ -179,3 +179,5 @@ Further reading: This 3-part series on data journalism and data projects in gene
 * [The Data Notebook](https://uta.pressbooks.pub/datanotebook/)
 * [A GENTLE INTRODUCTION TO EXCEL AND SPREADSHEETS FOR HUMANITIES PEOPLE](https://hfroehli.ch/2021/06/17/a-gentle-introduction-to-excel-and-spreadsheets-for-humanities-people/)
 
+## [Link to Recording of session](https://hdl.handle.net/11274/13594)
+
