@@ -26,7 +26,7 @@
 
 ## [Link to Content](https://github.com/librarianrafia/tableau/blob/main/sections/dataviz.md)
 ## [Link to Slides](https://github.com/librarianrafia/tableau/blob/main/sections/storydata.pdf)
-## [Link to Recording](https://hdl.handle.net/11274/13594)
+## [Link to Recording of session](https://hdl.handle.net/11274/13594)
 
 
 -----
